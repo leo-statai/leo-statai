@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**leo-statai/leo-statai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Leo, a curious student passionate about learning and exploring the world of computers, software, and data. When I'm not studying, you can find me watching series/movies and experimenting with AI.
+In my free time, I enjoy playing basketball and capturing life's moments through photography. I believe that learning is a lifelong journey, and I'm excited to share my projects and experiences with the GitHub community.
 
-Here are some ideas to get you started:
+## About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Student of Computer Engineering
+-  Proficient in R and apprentice in Python programming languages
+-  Interested in AI, Computer Engineering and Statistical Learning
+-  Enthusiast of basketball and photography
+-  Star Wars fan
+-  Always looking to learn and improve
+
+Feel free to reach out!
+
+I'm excited to connect with fellow developers, students, and enthusiasts who share (or not) my interests. Let's collaborate, learn from each other, and create something amazing together!
