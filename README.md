@@ -9,7 +9,7 @@ In my free time, I enjoy playing basketball and capturing life's moments through
 -  Proficient in R and apprentice in Python programming languages
 -  Interested in AI, Computer Engineering and Statistical Learning
 -  Enthusiast of basketball and photography
--  Star Wars fan
+-  I like books about science, art and science fiction
 -  Always looking to learn and improve
 
 Feel free to reach out!
