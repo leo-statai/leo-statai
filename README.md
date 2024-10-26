@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-I'm Leo, a curious student passionate about learning and exploring the world of computers, software, and data. When I'm not studying, you can find me watching series/movies and experimenting with AI.
-In my free time, I enjoy playing basketball and capturing life's moments through photography. I believe that learning is a lifelong journey, and I'm excited to share my projects and experiences with the GitHub community.
+I'm Leonardo, a curious student passionate about learning and exploring the world of computers, software, and data. When I'm not working/studying, you can find me watching series/movies and experimenting with AI.
+In my free time, I love spending time with friends and family, playing basketball, and capturing life's moments through photography. I believe that learning is a lifelong journey, and I'm excited to share my projects and experiences with the GitHub community.
 
 ## About me:
 
--  Student of Computer Engineering
+-  Statistician by training
+-  Data Scientist
+-  Computer Engineer in progress
 -  Proficient in R and apprentice in Python programming languages
--  Interested in AI, Computer Engineering and Statistical Learning
+-  Interested in AI, Computer Engineering and Data Science
 -  Enthusiast of basketball and photography
 -  I like books about science, art and science fiction
--  Always looking to learn and improve
 
 Feel free to reach out!
 
