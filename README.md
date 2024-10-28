@@ -8,6 +8,7 @@ In my free time, I love spending time with friends and family, playing basketbal
 -  Statistician by training
 -  Data Scientist
 -  Computer Engineer in progress
+-  Linux enthusiast
 -  Proficient in R and apprentice in Python programming languages
 -  Interested in AI, Computer Engineering and Data Science
 -  Enthusiast of basketball and photography
