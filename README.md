@@ -9,11 +9,11 @@ In my free time, I love spending time with friends and family, playing basketbal
 -  Data Scientist
 -  Computer Engineer in progress
 -  Linux enthusiast
--  Proficient in R and apprentice in Python programming languages
--  Interested in AI, Computer Engineering and Data Science
+-  Proficient in R and Python programming languages
+-  Interested in AI, Computer Engineering, Data Science and Statistics
 -  Enthusiast of basketball and photography
--  I like books about science, art and science fiction
+-  I like books about science, photography, art and science fiction
 
 Feel free to reach out!
 
-I'm excited to connect with fellow developers, students, and enthusiasts who share (or not) my interests. Let's collaborate, learn from each other, and create something amazing together!
+I'm excited to connect with fellow professionals, developers, students, and enthusiasts who share (or not) my interests.
