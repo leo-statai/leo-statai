@@ -7,9 +7,9 @@ In my free time, I love spending time with friends and family and playing basket
 
 -  Statistician by training
 -  Data Scientist
--  Computer Engineer (in progress)
+-  B.Sc. in Information Technology - IT (in progress)
 -  Linux enthusiast
--  Interested in AI, Computer Engineering, Data Science and Statistics
+-  Interested in AI, IT, Data Science and Statistics
 -  Enthusiast of basketball and photography
 
 Feel free to reach out!
