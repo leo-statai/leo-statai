@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I'm Leonardo, a curious person passionate about learning and exploring the world of computers, software, and data. When I'm not working/studying, you can find me watching series/movies and experimenting with AI.
-In my free time, I love spending time with friends and family and playing basketball. I believe that learning is a lifelong journey, and I'm excited to share my projects and experiences with the GitHub community.
+I'm Leonardo, a curious person passionate about learning and exploring the world of technology, software, and data. 
 
 ## About me:
 
@@ -10,6 +9,5 @@ In my free time, I love spending time with friends and family and playing basket
 -  B.Sc. in Information Technology - IT (in progress)
 -  Linux enthusiast
 -  Interested in AI, IT, Data Science and Statistics
--  Enthusiast of basketball and photography
 
 Feel free to reach out!
