@@ -2,7 +2,7 @@
 
 **Building AI systems with the rigour of a Data Scientist and Statistician.**
 
-Based in Campinas (SP), Brazil. Years of professional experience as Data Scientist and Statistician across **consulting, market research, scientific research, and the consumer-goods industry**. Now focused on **AI engineering** — building LLM-powered systems end-to-end, with attention to evaluation, governance, and reproducibility.
+Based in Campinas (SP), Brazil. Professional experience as Data Scientist and Statistician across **consulting, market research, scientific research, and the consumer-goods industry**. Now focused on **AI engineering** — building LLM-powered systems end-to-end, with attention to evaluation, governance, and reproducibility.
 
 ---
 
@@ -55,4 +55,4 @@ Based in Campinas (SP), Brazil. Years of professional experience as Data Scienti
 
 ### Get in touch
 
-📫 **leonardo.statai@gmail.com** — open to roles and collaborations in AI Engineering, Applied AI, and AI Governance.
+📫 **leonardo.statai@gmail.com** — open to roles and collaborations in AI Engineering, Applied AI, AI Data Science, AI Data Analytics, and AI Governance.
