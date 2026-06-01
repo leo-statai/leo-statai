@@ -1,22 +1,8 @@
 ## Leonardo Alves
 
-**Statistician → Data Scientist, now focused on Applied AI.**
+**Building AI systems with the rigour of a Data Scientist and Statistician.**
 
-Based in Campinas (SP), Brazil. I bridge classical statistics, data science, and modern generative AI — building practical pipelines and writing them up with the rigour of an academic report.
-
-### Education
-
-- 🎓 **M.Sc. in Statistical Modeling** — UNICAMP / FEA
-  Multivariate regression with Partial Least Squares (PLSR), applied to Sensory & Consumer Science.
-- 🎓 **B.Sc. in Statistics** — UNICAMP
-- 🎓 **B.Sc. in Information Technology** — UNIVESP, graduating **June 2027**
-- 🔬 **PhD-level coursework (special student) at UNICAMP / FEEC**:
-  Responsible & Ethical AI (IA364) · Seminars in Computer Engineering (IA382)
-
-### Focus
-
-🤖 **Generative AI, LLM evaluation, AI ethics & regulation.**
-Working languages: Python, R, LaTeX. Linux enthusiast.
+Based in Campinas (SP), Brazil. Years of professional experience as Data Scientist and Statistician across **consulting, market research, scientific research, and the consumer-goods industry**. Now focused on **AI engineering** — building LLM-powered systems end-to-end, with attention to evaluation, governance, and reproducibility.
 
 ---
 
@@ -28,6 +14,23 @@ Working languages: Python, R, LaTeX. Linux enthusiast.
 | [**apertus-ethics-by-design-case-study**](https://github.com/leo-statai/apertus-ethics-by-design-case-study) | Case study mapping the Swiss Apertus LLM to the EU *Ethics by Design* framework and AI Act, with a quantified compliance/performance trade-off analysis. |
 | [**transcritor_v2**](https://github.com/leo-statai/transcritor_v2) | Self-hosted web app for audio/video transcription on NVIDIA GPUs — SvelteKit + FastAPI + Redis/ARQ + faster-whisper, resumable uploads via tus, real-time progress via SSE, 5 export formats. |
 | [**fluencia_ia**](https://github.com/leo-statai/fluencia_ia) | Brazilian-Portuguese translation of *A Framework for AI Fluency* (Dakan & Feller), with an interactive web companion. |
+
+---
+
+### Toolkit
+
+Python · R · SQL · LaTeX · Docker · FastAPI · SvelteKit · Whisper / faster-whisper · Gemini API · Linux
+
+---
+
+### Education
+
+- 🎓 **B.Sc. in Information Technology** — UNIVESP, graduating **June 2027**
+- 🔬 **PhD-level coursework (special student) at UNICAMP / FEEC**:
+  Responsible & Ethical AI (IA364) · Seminars in Computer Engineering (IA382)
+- 🎓 **M.Sc. in Statistical Modeling** — UNICAMP / FEA
+  Multivariate regression with Partial Least Squares (PLSR), applied to Sensory & Consumer Science.
+- 🎓 **B.Sc. in Statistics** — UNICAMP
 
 ---
 
@@ -45,4 +48,4 @@ Working languages: Python, R, LaTeX. Linux enthusiast.
 
 ### Get in touch
 
-📫 **leonardo.statai@gmail.com** — open to roles and collaborations in Applied AI, Data Science, and AI Governance.
+📫 **leonardo.statai@gmail.com** — open to roles and collaborations in AI Engineering, Applied AI, and AI Governance.
