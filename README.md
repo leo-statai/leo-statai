@@ -19,7 +19,14 @@ Based in Campinas (SP), Brazil. Years of professional experience as Data Scienti
 
 ### Toolkit
 
-Python · R · SQL · LaTeX · Docker · FastAPI · SvelteKit · Whisper / faster-whisper · Gemini API · Linux
+- **LLM APIs:** OpenAI · Anthropic · Google Gemini · DeepSeek
+- **Local LLM stacks:** Ollama · AnythingLLM · Open WebUI
+- **AI agents:** Hermes Agent (building custom agent profiles on a local server)
+- **AI-assisted development:** Claude Code · Codex (both CLI)
+- **Languages:** Python · R · SQL · LaTeX
+- **Web & backend:** FastAPI · SvelteKit · Docker
+- **Speech & audio:** Whisper · faster-whisper
+- **Linux & home lab:** Debian · Ubuntu · self-hosted services
 
 ---
 
@@ -38,7 +45,7 @@ Python · R · SQL · LaTeX · Docker · FastAPI · SvelteKit · Whisper / faste
 
 - **Machine Learning Specialization** — DeepLearning.AI / Stanford Online (Coursera, 2025)
   Supervised ML · Advanced Learning Algorithms · Unsupervised Learning, Recommenders & RL
-- **5-Day Gen AI Intensive Course** — Google × Kaggle (2025) · [Capstone notebook](https://www.kaggle.com/code/leonardorangelalves/capstone-vintage-lens-info-guide)
+- **5-Day Gen AI Intensive Course** — Google × Kaggle (2025)
 - **Google Data Analytics Professional Certificate** — Google / Coursera (2024)
   SQL · Tableau · R · spreadsheets
 - **Statistical Learning, *with Distinction*** — Stanford Online (Hastie & Tibshirani, 2020)
