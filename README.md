@@ -13,7 +13,7 @@ Based in Campinas (SP), Brazil. Years of professional experience as Data Scienti
 | [**ai-generated-content-evaluator**](https://github.com/leo-statai/ai-generated-content-evaluator) | LLM pipeline that generates technical reports with NotebookLM and auto-evaluates them with the Gemini API across four quality metrics. |
 | [**apertus-ethics-by-design-case-study**](https://github.com/leo-statai/apertus-ethics-by-design-case-study) | Case study mapping the Swiss Apertus LLM to the EU *Ethics by Design* framework and AI Act, with a quantified compliance/performance trade-off analysis. |
 | [**whisper-transcriber**](https://github.com/leo-statai/whisper-transcriber) | Self-hosted web app for audio/video transcription on NVIDIA GPUs — SvelteKit + FastAPI + Redis/ARQ + faster-whisper, resumable uploads via tus, real-time progress via SSE, 5 export formats. |
-| [**fluencia_ia**](https://github.com/leo-statai/fluencia_ia) | Brazilian-Portuguese translation of *A Framework for AI Fluency* (Dakan & Feller), with an interactive web companion. |
+| [**ai-fluency-ptbr**](https://github.com/leo-statai/ai-fluency-ptbr) | Brazilian-Portuguese translation of *A Framework for AI Fluency* (Dakan & Feller), with an interactive SPA companion (Tailwind + Chart.js). [Live demo](https://leo-statai.github.io/ai-fluency-ptbr/). |
 
 ---
 
