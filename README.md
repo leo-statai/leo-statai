@@ -4,11 +4,19 @@
 
 Based in Campinas (SP), Brazil. I bridge classical statistics, data science, and modern generative AI — building practical pipelines and writing them up with the rigour of an academic report.
 
-- 🎓 **B.Sc. in Information Technology** — in progress, graduating **June 2027**
-- 📐 Background in **Statistics** with applied experience in data science
-- 🔬 Coursework at **UNICAMP / FEEC**: Responsible & Ethical AI (IA364), Seminars in Computer Engineering (IA382)
-- 🤖 Current focus: **Generative AI, LLM evaluation, AI ethics & regulation**
-- 🐧 Linux enthusiast • working languages: Python, R, LaTeX
+### Education
+
+- 🎓 **M.Sc. in Statistical Modeling** — UNICAMP / FEA
+  Multivariate regression with Partial Least Squares (PLSR), applied to Sensory & Consumer Science.
+- 🎓 **B.Sc. in Statistics** — UNICAMP
+- 🎓 **B.Sc. in Information Technology** — UNIVESP, graduating **June 2027**
+- 🔬 **PhD-level coursework (special student) at UNICAMP / FEEC**:
+  Responsible & Ethical AI (IA364) · Seminars in Computer Engineering (IA382)
+
+### Focus
+
+🤖 **Generative AI, LLM evaluation, AI ethics & regulation.**
+Working languages: Python, R, LaTeX. Linux enthusiast.
 
 ---
 
@@ -20,6 +28,18 @@ Based in Campinas (SP), Brazil. I bridge classical statistics, data science, and
 | [**apertus-ethics-by-design-case-study**](https://github.com/leo-statai/apertus-ethics-by-design-case-study) | Case study mapping the Swiss Apertus LLM to the EU *Ethics by Design* framework and AI Act, with a quantified compliance/performance trade-off analysis. |
 | [**transcritor_v2**](https://github.com/leo-statai/transcritor_v2) | Self-hosted web app for audio/video transcription on NVIDIA GPUs — SvelteKit + FastAPI + Redis/ARQ + faster-whisper, resumable uploads via tus, real-time progress via SSE, 5 export formats. |
 | [**fluencia_ia**](https://github.com/leo-statai/fluencia_ia) | Brazilian-Portuguese translation of *A Framework for AI Fluency* (Dakan & Feller), with an interactive web companion. |
+
+---
+
+### Certifications
+
+- **Machine Learning Specialization** — DeepLearning.AI / Stanford Online (Coursera, 2025)
+  Supervised ML · Advanced Learning Algorithms · Unsupervised Learning, Recommenders & RL
+- **5-Day Gen AI Intensive Course** — Google × Kaggle (2025) · [Capstone notebook](https://www.kaggle.com/code/leonardorangelalves/capstone-vintage-lens-info-guide)
+- **Google Data Analytics Professional Certificate** — Google / Coursera (2024)
+  SQL · Tableau · R · spreadsheets
+- **Statistical Learning, *with Distinction*** — Stanford Online (Hastie & Tibshirani, 2020)
+- **Data Science Specialization** — Johns Hopkins University (Coursera, 2017)
 
 ---
 
