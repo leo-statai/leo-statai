@@ -25,6 +25,7 @@
 
 | Project | Summary | Stack |
 |---|---|---|
+| [llm-eval-stats](https://github.com/leo-statai/llm-eval-stats) | Python library for statistically sound LLM evals: bootstrap CIs, paired model comparisons (McNemar/permutation), LLM-judge vs human agreement and sample-size planning. | Python · NumPy · SciPy |
 | [ai-generated-content-evaluator](https://github.com/leo-statai/ai-generated-content-evaluator) | Generates technical reports with NotebookLM and auto-evaluates them with Gemini across four quality metrics. | Python · Gemini API |
 | [apertus-ethics-by-design-case-study](https://github.com/leo-statai/apertus-ethics-by-design-case-study) | Maps the Swiss Apertus LLM to the EU *Ethics by Design* framework and AI Act, quantifying the compliance/performance trade-off. | AI governance · LaTeX |
 | [literature-reviewer](https://github.com/leo-statai/literature-reviewer) | Turns a title + abstract into a structured literature review: research questions, top papers (IEEE-formatted) and speaker questions. | Python · OpenAI · Semantic Scholar |
