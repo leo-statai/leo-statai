@@ -1,6 +1,8 @@
 # Leonardo Alves
 
-**Statistician & Data Scientist building LLM-powered systems — with evaluation, governance and reproducibility built in.**
+## AI Engineer · grounded in Statistics & Data Science
+
+**I build LLM-powered systems end-to-end — and measure them with a statistician's rigour.**
 
 [![Location](https://img.shields.io/badge/Campinas%2C%20SP-Brazil-555?style=flat-square&logo=googlemaps&logoColor=white)](#)
 [![Open to work](https://img.shields.io/badge/Open%20to-roles%20%26%20collaborations-2ea44f?style=flat-square)](#lets-talk)
@@ -10,9 +12,10 @@
 
 ### About
 
-- 📊 Background as **Data Scientist and Statistician** across consulting, market research, scientific research and the consumer-goods industry.
-- 🤖 Now focused on **AI engineering** — designing and shipping LLM systems end-to-end, from prompt pipelines to self-hosted apps.
-- 🧪 I bring the statistician's mindset to AI: **measure quality, quantify trade-offs, document decisions**.
+- 🤖 **AI Engineer** — I design and ship LLM systems end-to-end: prompt pipelines, LLM-as-judge evaluation, APIs, agents and self-hosted GPU apps.
+- 📊 **Foundation in Statistics & Data Science** — professional experience as Data Scientist and Statistician across consulting, market research, scientific research and the consumer-goods industry.
+- 💻 **Completing a B.Sc. in Information Technology** (UNIVESP, 2027) to formalize the software-engineering side.
+- 🧪 **What that combination brings** — AI systems that are measured, not guessed: sound evaluation, quantified trade-offs, reproducible and well-documented decisions.
 
 ---
 
