@@ -1,58 +1,88 @@
-## Leonardo Alves
+# Leonardo Alves
 
-**Building AI systems with the rigour of a Data Scientist and Statistician.**
+**Statistician & Data Scientist building LLM-powered systems — with evaluation, governance and reproducibility built in.**
 
-Based in Campinas (SP), Brazil. Professional experience as Data Scientist and Statistician across **consulting, market research, scientific research, and the consumer-goods industry**. Now focused on **AI engineering** — building LLM-powered systems end-to-end, with attention to evaluation, governance, and reproducibility.
-
----
-
-### Featured work
-
-| Project | What it does |
-|---|---|
-| [**ai-generated-content-evaluator**](https://github.com/leo-statai/ai-generated-content-evaluator) | LLM pipeline that generates technical reports with NotebookLM and auto-evaluates them with the Gemini API across four quality metrics. |
-| [**apertus-ethics-by-design-case-study**](https://github.com/leo-statai/apertus-ethics-by-design-case-study) | Case study mapping the Swiss Apertus LLM to the EU *Ethics by Design* framework and AI Act, with a quantified compliance/performance trade-off analysis. |
-| [**whisper-transcriber**](https://github.com/leo-statai/whisper-transcriber) | Self-hosted web app for audio/video transcription on NVIDIA GPUs — SvelteKit + FastAPI + Redis/ARQ + faster-whisper, resumable uploads via tus, real-time progress via SSE, 5 export formats. |
-| [**ai-fluency-ptbr**](https://github.com/leo-statai/ai-fluency-ptbr) | Brazilian-Portuguese translation of *A Framework for AI Fluency* (Dakan & Feller), with an interactive SPA companion (Tailwind + Chart.js). [Live demo](https://leo-statai.github.io/ai-fluency-ptbr/). |
+[![Location](https://img.shields.io/badge/Campinas%2C%20SP-Brazil-555?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![Open to work](https://img.shields.io/badge/Open%20to-roles%20%26%20collaborations-2ea44f?style=flat-square)](#lets-talk)
+[![Email](https://img.shields.io/badge/leonardo.statai@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leonardo.statai@gmail.com)
 
 ---
 
-### Toolkit
+### About
 
-- **LLM APIs:** OpenAI · Anthropic · Google Gemini · DeepSeek
-- **Local LLM stacks:** Ollama · AnythingLLM · Open WebUI
-- **AI agents:** Hermes Agent (building custom agent profiles on a local server)
-- **AI-assisted development:** Claude Code · Codex (both CLI)
-- **Languages:** Python · R · SQL · LaTeX
-- **Web & backend:** FastAPI · SvelteKit · Docker
-- **Speech & audio:** Whisper · faster-whisper
-- **Linux & home lab:** Debian · Ubuntu · self-hosted services
+- 📊 Background as **Data Scientist and Statistician** across consulting, market research, scientific research and the consumer-goods industry.
+- 🤖 Now focused on **AI engineering** — designing and shipping LLM systems end-to-end, from prompt pipelines to self-hosted apps.
+- 🧪 I bring the statistician's mindset to AI: **measure quality, quantify trade-offs, document decisions**.
 
 ---
 
-### Education
+### Featured projects
 
-- 🎓 **B.Sc. in Information Technology** — UNIVESP, graduating **June 2027**
-- 🔬 **PhD-level coursework (special student) at UNICAMP / FEEC**:
-  Responsible & Ethical AI (IA364) · Seminars in Computer Engineering (IA382)
-- 🎓 **M.Sc. in Statistical Modeling** — UNICAMP / FEA
-  Multivariate regression with Partial Least Squares (PLSR), applied to Sensory & Consumer Science.
+**LLM evaluation & responsible AI**
+
+| Project | Summary | Stack |
+|---|---|---|
+| [ai-generated-content-evaluator](https://github.com/leo-statai/ai-generated-content-evaluator) | Generates technical reports with NotebookLM and auto-evaluates them with Gemini across four quality metrics. | Python · Gemini API |
+| [apertus-ethics-by-design-case-study](https://github.com/leo-statai/apertus-ethics-by-design-case-study) | Maps the Swiss Apertus LLM to the EU *Ethics by Design* framework and AI Act, quantifying the compliance/performance trade-off. | AI governance · LaTeX |
+| [literature-reviewer](https://github.com/leo-statai/literature-reviewer) | Turns a title + abstract into a structured literature review: research questions, top papers (IEEE-formatted) and speaker questions. | Python · OpenAI · Semantic Scholar |
+
+**Applied AI & self-hosted tools**
+
+| Project | Summary | Stack |
+|---|---|---|
+| [whisper-transcriber](https://github.com/leo-statai/whisper-transcriber) | Self-hosted web app for GPU audio/video transcription — resumable uploads, real-time progress, 5 export formats. | SvelteKit · FastAPI · Redis/ARQ · faster-whisper · Docker |
+| [transcritor](https://github.com/leo-statai/transcritor) | Minimalist CLI to transcribe audio and video files with Whisper, with language detection and optional timestamps. | Python · Whisper · FFmpeg |
+
+**AI literacy & utilities**
+
+| Project | Summary | Stack |
+|---|---|---|
+| [ai-fluency-ptbr](https://github.com/leo-statai/ai-fluency-ptbr) | Brazilian-Portuguese translation of *A Framework for AI Fluency* with an interactive companion. [**Live demo →**](https://leo-statai.github.io/ai-fluency-ptbr/) | Tailwind · Chart.js |
+| [uniPDF](https://github.com/leo-statai/uniPDF) | Lightweight desktop app to merge PDFs in any order — fully offline. | Python · Tkinter · pypdf |
+
+---
+
+### Tech stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-10A37F?style=flat-square)
+
+Also: DeepSeek · Open WebUI · AnythingLLM · Hermes Agent · Claude Code & Codex CLI · LaTeX · Debian/Ubuntu home lab
+
+---
+
+### Background
+
+- 🎓 **M.Sc. in Statistical Modeling** — UNICAMP / FEA · *PLS regression applied to Sensory & Consumer Science*
 - 🎓 **B.Sc. in Statistics** — UNICAMP
+- 🔬 **PhD-level coursework (special student)** — UNICAMP / FEEC · Responsible & Ethical AI · Seminars in Computer Engineering
+- 💻 **B.Sc. in Information Technology** — UNIVESP · expected June 2027
 
----
+<details>
+<summary><b>Certifications</b></summary>
 
-### Certifications
-
-- **Machine Learning Specialization** — DeepLearning.AI / Stanford Online (Coursera, 2025)
-  Supervised ML · Advanced Learning Algorithms · Unsupervised Learning, Recommenders & RL
+- **Machine Learning Specialization** — DeepLearning.AI / Stanford Online (2025)
 - **5-Day Gen AI Intensive Course** — Google × Kaggle (2025)
-- **Google Data Analytics Professional Certificate** — Google / Coursera (2024)
-  SQL · Tableau · R · spreadsheets
-- **Statistical Learning, *with Distinction*** — Stanford Online (Hastie & Tibshirani, 2020)
-- **Data Science Specialization** — Johns Hopkins University (Coursera, 2017)
+- **Google Data Analytics Professional Certificate** — Google (2024)
+- **Statistical Learning, *with Distinction*** — Stanford Online (2020)
+- **Data Science Specialization** — Johns Hopkins University (2017)
+
+</details>
 
 ---
 
-### Get in touch
+### Let's talk
 
-📫 **leonardo.statai@gmail.com** — open to roles and collaborations in AI Engineering, Applied AI, AI Data Science, AI Data Analytics, and AI Governance.
+Open to roles and collaborations in **AI Engineering · Applied AI · AI Data Science & Analytics · AI Governance** — and always happy to chat about statistics, LLM evaluation and sensory science.
+
+📫 **[leonardo.statai@gmail.com](mailto:leonardo.statai@gmail.com)**
