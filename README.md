@@ -87,6 +87,6 @@ Also: DeepSeek · Open WebUI · AnythingLLM · Hermes Agent · Claude Code & Cod
 
 ### Let's talk
 
-Open to roles and collaborations in **AI Engineering · Applied AI · AI Data Science & Analytics · AI Governance** — and always happy to chat about statistics, LLM evaluation and sensory science.
+Open to roles and collaborations in **AI Engineering · Applied AI · LLM Evaluation · AI Governance · AI Data Science & Analytics** — and always happy to chat about LLM systems, AI agents and evaluation in production.
 
 📫 **[leonardo.statai@gmail.com](mailto:leonardo.statai@gmail.com)**
